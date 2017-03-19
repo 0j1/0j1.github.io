@@ -1,0 +1,104 @@
+.col-md-12{
+		background-color: #333;
+		height:20%;
+		display:inline;
+		margin-bottom: 4px;
+	}
+
+.col-md-4{
+	padding: 0;
+	margin: 0;
+}
+
+.rocket{
+	border-radius: 360px;
+	width:200px;
+	height:200px;
+
+}
+
+.image1,
+.text{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	color:white;
+}
+
+.nasa{
+	border:1px solid #c1c1c1;
+	background-color:#777777;
+
+}
+
+.col-md-8 {
+	padding: 0 5px;
+	
+}
+
+.image2{
+	width:100px;
+	margin-left: -75px;
+}
+
+h2{
+	font-family: 'Playfair Display', serif;
+	color:white;
+}
+.navtitle{
+	margin:-8%;
+	margin-left: 2%;
+}
+.video{
+	border:1px solid #c1c1c1;
+	margin-top:4px;
+	text-align: center;
+	width: 100%;
+	background-color: #777777;
+
+}
+.margin{
+	margin:0;
+}
+.youtube {
+	width: 50%;
+	height: 250px;
+}
+.icons{
+font-size: 40px;
+}
+	
+.twitterfeed{
+	border:1px solid #c1c1c1;
+	height:400px;
+	overflow: scroll;
+	background-color: #777777;
+}
+body{
+	background-color:#a09e9e;
+}
+.navtitle{
+	color:black;
+}
+.spacetext{
+	color:black;
+}
+.topleft{
+	background-color: #777777;
+	border:1px solid #c1c1c1;
+	margin-bottom: 4px;
+	height:304px;
+}
+.leftbox{
+background-color: #777777;
+border:1px solid #c1c1c1;
+margin-top: 4px;
+height:350px;
+text-align: center;
+}
+.rightbox{
+background-color: #777777;
+border:1px solid #c1c1c1;
+margin-top: 4px;
+height:350px;
+}
+
